@@ -1,4 +1,4 @@
-# 🤖 NovaSwing AI Assistant
+#  NovaSwing AI Assistant
 
 <div align="center">
 
