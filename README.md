@@ -713,8 +713,6 @@ Special thanks to:
 
 **⭐ Star this project if you find it useful! ⭐**
 
-Made with ❤️ and ☕ by the NovaSwing Team
-
 [Back to Top](#-novaswing-ai-assistant)
 
 </div>
